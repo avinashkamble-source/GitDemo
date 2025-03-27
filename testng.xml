@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="false" name="Suite">
+<!--  
+	<listeners>
+		<listener class-name="com.testng.practice.TestNgListener"></listener>
+	</listeners>
+	-->
+	<parameter name="URL" value="gamil.com"></parameter>
+	<parameter name="USERNAME" value="avinash"></parameter>
+	<parameter name="PASSWORD" value="welcome*123"></parameter>
+	<!--  
+	<groups>
+		<run>
+			<include name="Demo4Ann" />
+		</run>
+	</groups>
+	-->
+	<!--  
+	<test name="Demo1Demo2" parallel="classes">
+		<classes>
+			<class name="com.testng.practice.Demo1" />
+			<class name="com.testng.practice.Demo2" />
+		</classes>
+	</test>
+	<test name="Demo3">
+		<parameter name="URL" value="hotmail.com"></parameter>
+		<parameter name="USERNAME" value="avinash123"></parameter>
+		<parameter name="PASSWORD" value="for*123"></parameter>
+		<classes>
+			<class name="com.testng.practice.Demo3">
+				<methods>
+					<include name="f11" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+	-->
+	<test name="DemoAnn">
+		<classes>
+			<class name="com.testng.practice.Demo4Ann"/>
+		</classes>
+	</test>
+</suite> <!-- Suite -->

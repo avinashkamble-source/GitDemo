@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-22T22:55:54 IST" name="Suite" finished-at="2025-03-22T22:55:54 IST" duration-ms="107">
+    <groups>
+      <group name="Demo4Ann">
+        <method signature="Demo4Ann.fun1()[pri:0, instance:com.testng.practice.Demo4Ann@6302bbb1]" name="fun1" class="com.testng.practice.Demo4Ann"/>
+        <method signature="Demo4Ann.fun2()[pri:0, instance:com.testng.practice.Demo4Ann@6302bbb1]" name="fun2" class="com.testng.practice.Demo4Ann"/>
+        <method signature="Demo4Ann.fun3()[pri:0, instance:com.testng.practice.Demo4Ann@6302bbb1]" name="fun3" class="com.testng.practice.Demo4Ann"/>
+      </group> <!-- Demo4Ann -->
+    </groups>
+    <test started-at="2025-03-22T22:55:54 IST" name="DemoAnn" finished-at="2025-03-22T22:55:54 IST" duration-ms="107">
+      <class name="com.testng.practice.Demo4Ann">
+        <test-method is-config="true" signature="fun4()[pri:0, instance:com.testng.practice.Demo4Ann@6302bbb1]" started-at="2025-03-22T22:55:54 IST" name="fun4" finished-at="2025-03-22T22:55:54 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fun4 -->
+        <test-method is-config="true" signature="fun6()[pri:0, instance:com.testng.practice.Demo4Ann@6302bbb1]" started-at="2025-03-22T22:55:54 IST" name="fun6" finished-at="2025-03-22T22:55:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fun6 -->
+        <test-method is-config="true" signature="fun5()[pri:0, instance:com.testng.practice.Demo4Ann@6302bbb1]" started-at="2025-03-22T22:55:54 IST" name="fun5" finished-at="2025-03-22T22:55:54 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fun5 -->
+        <test-method is-config="true" signature="fun7()[pri:0, instance:com.testng.practice.Demo4Ann@6302bbb1]" started-at="2025-03-22T22:55:54 IST" name="fun7" finished-at="2025-03-22T22:55:54 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fun7 -->
+        <test-method signature="fun1()[pri:0, instance:com.testng.practice.Demo4Ann@6302bbb1]" started-at="2025-03-22T22:55:54 IST" name="fun1" finished-at="2025-03-22T22:55:54 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fun1 -->
+        <test-method is-config="true" signature="fun11()[pri:0, instance:com.testng.practice.Demo4Ann@6302bbb1]" started-at="2025-03-22T22:55:54 IST" name="fun11" finished-at="2025-03-22T22:55:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fun11 -->
+        <test-method is-config="true" signature="fun7()[pri:0, instance:com.testng.practice.Demo4Ann@6302bbb1]" started-at="2025-03-22T22:55:54 IST" name="fun7" finished-at="2025-03-22T22:55:54 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fun7 -->
+        <test-method signature="fun2()[pri:0, instance:com.testng.practice.Demo4Ann@6302bbb1]" started-at="2025-03-22T22:55:54 IST" name="fun2" finished-at="2025-03-22T22:55:54 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fun2 -->
+        <test-method is-config="true" signature="fun11()[pri:0, instance:com.testng.practice.Demo4Ann@6302bbb1]" started-at="2025-03-22T22:55:54 IST" name="fun11" finished-at="2025-03-22T22:55:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fun11 -->
+        <test-method signature="fun3()[pri:0, instance:com.testng.practice.Demo4Ann@6302bbb1]" started-at="2025-03-22T22:55:54 IST" name="fun3" finished-at="2025-03-22T22:55:54 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fun3 -->
+        <test-method is-config="true" signature="fun7()[pri:0, instance:com.testng.practice.Demo4Ann@6302bbb1]" started-at="2025-03-22T22:55:54 IST" name="fun7" finished-at="2025-03-22T22:55:54 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fun7 -->
+        <test-method is-config="true" signature="fun11()[pri:0, instance:com.testng.practice.Demo4Ann@6302bbb1]" started-at="2025-03-22T22:55:54 IST" name="fun11" finished-at="2025-03-22T22:55:54 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fun11 -->
+        <test-method is-config="true" signature="fun9()[pri:0, instance:com.testng.practice.Demo4Ann@6302bbb1]" started-at="2025-03-22T22:55:54 IST" name="fun9" finished-at="2025-03-22T22:55:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fun9 -->
+        <test-method is-config="true" signature="fun10()[pri:0, instance:com.testng.practice.Demo4Ann@6302bbb1]" started-at="2025-03-22T22:55:54 IST" name="fun10" finished-at="2025-03-22T22:55:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fun10 -->
+        <test-method is-config="true" signature="fun8()[pri:0, instance:com.testng.practice.Demo4Ann@6302bbb1]" started-at="2025-03-22T22:55:54 IST" name="fun8" finished-at="2025-03-22T22:55:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fun8 -->
+      </class> <!-- com.testng.practice.Demo4Ann -->
+    </test> <!-- DemoAnn -->
+  </suite> <!-- Suite -->
+</testng-results>
